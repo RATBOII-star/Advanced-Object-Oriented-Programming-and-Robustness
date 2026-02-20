@@ -1,0 +1,7 @@
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\bin\Debug\Mones_ScenarioA.exe.config
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\bin\Debug\Mones_ScenarioA.exe
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\bin\Debug\Mones_ScenarioA.pdb
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\obj\Debug\Mones_ScenarioA.csproj.AssemblyReference.cache
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\obj\Debug\Mones_ScenarioA.csproj.CoreCompileInputs.cache
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\obj\Debug\Mones_ScenarioA.exe
+C:\Users\john mones\source\repos\Mones_ScenarioA\Mones_ScenarioA\obj\Debug\Mones_ScenarioA.pdb
